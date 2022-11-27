@@ -1,0 +1,88 @@
+.maxBox {
+    background-image: url('https://happy-puppy.oss-cn-beijing.aliyuncs.com/img/Background.png');
+    height: 1060px;
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.leftSmallBox {
+    height: 49px;
+    width: 70px;
+    background-color: aliceblue;  
+}
+.rightSmallBox {
+    position: absolute;
+    left: 530px;
+    height: 49px;
+    width: 70px;
+    background-color: aliceblue;
+}
+.centerSmallBox {
+    height: 33px;
+    width: 105px;
+    position: absolute;
+    left: 236px;
+}
+p {font-size: 26px;}
+.circleBox {
+    height: 148px;
+    width: 144px;
+    background-color: aliceblue;
+    position: absolute;
+    top: 144px;
+    left: 218px;
+}
+.inputBox {
+    height: 400px;
+    width: 1200px;
+    margin-top: 320px;
+    margin-left: 218px;
+}
+.name1 {
+    margin-top: 34px;
+    height: 33px;
+    width: 285px;
+    border-bottom:1px solid gray;
+}
+.name2 {
+    margin-top: 34px;
+    height: 33px;
+    width: 285px;
+    border-bottom:1px solid gray;
+}
+.address {
+    margin-top: 34px;
+    height: 33px;
+    width: 285px;
+    border-bottom:1px solid gray;
+}
+.key {
+    margin-top: 34px;
+    height: 33px;
+    width: 285px;
+    border-bottom:1px solid gray;
+}
+.last2 {
+    height: 56px;
+    width: 246px;
+    background-color: aliceblue;
+    margin-top: 30px;
+    border-radius:10px;
+}
+i {
+    color:706d9f;
+    font-size: 26px;
+}
+.footer {
+    height: 46px;
+    width: 188px;
+}
+z {color: aliceblue;}
+a {color: aqua;}
+.asideBox {
+    position: absolute;
+    top: 564px;
+    left: 486px;
+    color: blue;
+}
